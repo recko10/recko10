@@ -12,7 +12,7 @@ class SuperHacker:
     def __init__(self):
         self.name = "Adith Reddi"
         self.role = "Co-founder & CEO @ Riff"
-        self.interests = ["AI", "Research", "Music", "Blockchain", "Building crazy stuff"]
+        self.interests = ["AI", "Research", "Music", "Blockchain", "Building"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 
     def say_hi(self):

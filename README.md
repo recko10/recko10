@@ -11,7 +11,7 @@ class SuperHacker:
 
     def __init__(self):
         self.name = "adith reddi"
-        self.role = "co-founder & CEO @ Riff"
+        self.role = "co-founder & ceo @ Riff"
         self.interests = ["AI", "research", "music", "security"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 

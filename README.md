@@ -7,7 +7,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class builder:
+class Builder:
 
     def __init__(self):
         self.name = "adith reddi"

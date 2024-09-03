@@ -18,7 +18,7 @@ class Builder:
     def say_hi(self):
         print("thanks for checking out my page!")
 
-me = SuperHacker()
+me = Builder()
 me.say_hi()
 ```
 

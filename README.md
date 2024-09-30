@@ -12,7 +12,7 @@ class Builder:
     def __init__(self):
         self.name = "adith reddi"
         self.role = "co-founder & ceo @ Riff"
-        self.interests = ["AI", "research", "music", "security"]
+        self.interests = ["AI", "research", "music", "math"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 
     def say_hi(self):

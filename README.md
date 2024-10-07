@@ -1,6 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -18,13 +17,13 @@ class hacker:
 
 ```
 
-## 📝 Websites / Socials
+## 📝 contact
 
 - Riff: https://riffcopilot.com/home
 - Linkedin: https://www.linkedin.com/in/adithreddi/
 - IG: https://www.instagram.com/adith_6/?__d=1
 
-## 🔧 Technologies & Tools
+## 🔧 toolkit
 
 **Programming Languages:**
 

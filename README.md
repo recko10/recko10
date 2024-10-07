@@ -1,25 +1,21 @@
-# welcome traveler! 👋
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Builder:
+class hacker:
 
     def __init__(self):
         self.name = "adith reddi"
-        self.role = "co-founder & ceo @ Riff"
-        self.interests = ["AI", "research", "music", "math"]
+        self.role = "builder"
+        self.interests = ["deep learning", "game theory", "research", "music"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 
     def say_hi(self):
         print("thanks for checking out my page!")
 
-me = Builder()
-me.say_hi()
 ```
 
 ## 📝 Websites / Socials

@@ -11,7 +11,7 @@ class hacker:
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 
     def say_hi(self):
-        print("thanks for checking out my page!")
+        print("welcome to my page")
 
 ```
 

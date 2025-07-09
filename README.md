@@ -6,7 +6,7 @@ class hacker:
 
     def __init__(self):
         self.name = "adith reddi"
-        self.interests = ["deep learning", "ai infra", "music"]
+        self.interests = ["deep learning", "systems", "music"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
 
 ```

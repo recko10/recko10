@@ -6,12 +6,8 @@ class hacker:
 
     def __init__(self):
         self.name = "adith reddi"
-        self.role = "builder"
         self.interests = ["deep learning", "ai infra", "music"]
         self.language_spoken = ["ja_JP", "te_IN", "en_US"]
-
-    def say_hi(self):
-        print("welcome to my page")
 
 ```
 

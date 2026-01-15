@@ -3,7 +3,6 @@
 # -*- coding: utf-8 -*-
 
 class hacker:
-
     def __init__(self):
         self.name = "adith reddi"
         self.interests = ["deep learning", "systems", "music"]
